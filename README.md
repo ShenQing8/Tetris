@@ -2,5 +2,6 @@
 用C#制作的俄罗斯方块小游戏
 
 ## 📦 本地运行
-1. 克隆仓库：`git clone https://github.com/ShenQing8/Trtris.git`
-2. 
+1. 下载release版本中的"JILTOZZ.zip"
+2. 解压文件
+3. 运行“JILTOZZ/Game.exe”
